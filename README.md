@@ -14,7 +14,7 @@ Next combine these four sims together, chop everything down to 48x128 and make a
 
 `python3 prep.sims.for.training.UNET.py`
 
-This produces 2 files, one called `training.data.npz` and one called `introg_reg.json`. The latter is needed for this work.
+This produces 2 files, one called `training.data.npz` and one called `introg_reg.json`. The latter is not needed for this work.
 
 Finally open the `train.small.predict.introg.intensity.ipynb` and run on a GPU.  
 
