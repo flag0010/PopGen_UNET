@@ -1,7 +1,7 @@
 # PopGen_UNET
 
 ## Status
-This repo evolved into [this paper](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010657) and the final code lives [here](https://github.com/SchriderLab/introNets). The code in this repo is probably defunct, but was an important step along the way to created the paper.
+This repo evolved into [this paper](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010657) and the final code lives [here](https://github.com/SchriderLab/introNets). The code in this repo is probably defunct, but was an important step along the way to creating the paper.
 
 ## Description
 
