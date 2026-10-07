@@ -1,5 +1,10 @@
 # PopGen_UNET
 
+## Status
+This repo evolved into [this paper](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010657) and the final code lives [here](https://github.com/SchriderLab/introNets). The code in this repo is probably defunct, but was an important step along the way to created the paper.
+
+## Description
+
 First attempt to predict introgression tracts using a UNET architecture. All the files needed are already available and you can skip right to running the code in the ipynb file.  However to recreate first run slim using:
 
 `cd small_sims`
